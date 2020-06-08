@@ -1,11 +1,34 @@
+/*
 
+@import url();
+@import url();
+@import url();
+@import url();
 
+*/
 
+  * {
+    margin: 0;
+    padding: 0px;
+  }
 
+body {
+    background: #ffffff;
+    margin: 0;
+    height: 100%;
+    color: {{ site.colors.secondary }};
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+  }
 
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
 
+p {
 
-
+}
 
 
 
